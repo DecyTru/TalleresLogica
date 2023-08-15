@@ -12,6 +12,7 @@ public class Solucion {
     
     public static void main(String[] args) {
         
-        System.out.println("Hola Mundo");
+        System.out.println("nena fichu");
+        System.out.println("nsija");
     }
 }
